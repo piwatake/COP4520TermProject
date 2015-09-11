@@ -1,6 +1,3 @@
-# COP4520TermProject
-multithreaded project, comparing concurrent AVL trees. 
-
 To compile and run the C++ code...:
 1. Put the appropriate C++ and header files into a directory, on a system running linux.
 2. Enter: 'g++ -pthread -o trial avlTree.cpp bstree.hpp'
